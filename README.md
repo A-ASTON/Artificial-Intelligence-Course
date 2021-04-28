@@ -1,3 +1,3 @@
 # Artificial-Intelligence-Course
 
-# 八数码难题-启发式算法
+## 八数码难题-启发式算法
